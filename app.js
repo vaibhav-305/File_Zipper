@@ -1,5 +1,5 @@
 import express from 'express';
-import { HuffmanEncoding } from "./Huffman_Coding/huff_encoding.js";
+import { HuffmanEncoding } from "./huffman_Coding/huff_encoding.js";
 import { HuffmanDecoding } from './huffman_Coding/huff_decoding.js';
 //const fileUpload = require("express-fileupload");
 const port = process.env.PORT || 3000;
